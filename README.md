@@ -1,2 +1,12 @@
 # PowerBI_Dashboards
-A collection of interactive dashboards built using Power BI to analyze business data, track KPIs, and generate insights
+
+This repository contains a portfolio of Power BI dashboards created to explore real-world business scenarios across domains like sales, marketing, and operations. Each report showcases data visualization, filtering techniques, and business intelligence concepts using Power BI.
+
+## 🚀 Goals
+- Practice and demonstrate Power BI skills
+- Build a professional portfolio for interviews
+- Learn DAX, Power Query, and data modeling
+
+## 📁 Contents
+- First_Challenge.pbix – Sales performance by state
+- More dashboards coming soon...
